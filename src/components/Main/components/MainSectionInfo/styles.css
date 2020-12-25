@@ -1,0 +1,31 @@
+:root {
+  --jumbotron-padding-y: 3rem;
+}
+
+.jumbotron {
+  padding-top: var(--jumbotron-padding-y);
+  padding-bottom: var(--jumbotron-padding-y);
+  margin-bottom: 0;
+  background-color: rgb(252, 241, 224);
+  background-image: url(/image/pizza_background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron_heading {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+.background {
+  background-color: #ffffff;
+  opacity: 0.6;
+  font: Verdana, sans-serif;
+}

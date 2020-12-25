@@ -1,0 +1,9 @@
+.buttons {
+  margin-bottom: 1rem;
+  justify-content: space-evenly;
+}
+
+.paddings {
+  margin-bottom: 1rem;
+  padding: 2rem 1rem;
+}

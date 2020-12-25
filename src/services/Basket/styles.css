@@ -1,0 +1,18 @@
+.basket {
+  position: relative;
+}
+
+.in_basket {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  width: 16px;
+  height: 17px;
+  background-color: #dc3545eb;
+  border-radius: 50%;
+  font-size: 14px;
+  color: #e9ecef;
+  text-align: center;
+  line-height: 16px;
+  font-family: "Gill Sans", sans-serif;
+}

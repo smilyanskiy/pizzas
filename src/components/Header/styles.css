@@ -1,0 +1,39 @@
+.blog_header {
+  line-height: 1;
+  border-bottom: 1px solid #e5e5e5;
+  padding: 1em 0;
+}
+
+.blog_header_logo {
+  font-family: "Playfair Display", Georgia, "Times New Roman", Sans-serif;
+  font-style: oblique;
+  font-size: 2.25rem;
+  text-transform: uppercase;
+  color: #6c757d;
+}
+
+.blog_header_logo:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.shop-icon:hover,
+.shop-icon:focus {
+  fill: white !important;
+}
+
+.nav_content {
+  justify-content: space-evenly;
+}
+
+.nav_button {
+  border: none;
+  background: none;
+}
+
+.fixed_header {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background-color: #f8f9fa;
+}
