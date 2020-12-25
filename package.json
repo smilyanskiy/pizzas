@@ -1,5 +1,6 @@
 {
-  "name": "frontside",
+  "homepage": "http://smilyanskiy.github.io/pizzas",
+  "name": "pizzas",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
